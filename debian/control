@@ -10,3 +10,18 @@ Package: nordic
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, gtk2-engines-murrine, gtk2-engines-pixbuf
 Description: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
+
+Package: nordic-polar
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, gtk2-engines-murrine, gtk2-engines-pixbuf
+Description: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
+
+Package: nordic-darker
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, gtk2-engines-murrine, gtk2-engines-pixbuf
+Description: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
+
+Package: nordic-bluish-accent
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, gtk2-engines-murrine, gtk2-engines-pixbuf
+Description: Dark Gtk3.20+ theme created using the awesome Nord color pallete.

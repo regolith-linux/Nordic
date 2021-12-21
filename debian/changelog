@@ -1,3 +1,11 @@
+nordic (2.1.0-1) focal; urgency=medium
+
+  [ Ken Gilmer ]
+  * Remove source files
+  * Add built themes from release 2.1.0
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Mon, 20 Dec 2021 20:03:59 -0800
+
 nordic (1.6.5-1ubuntu1ppa1) disco; urgency=medium
 
   * Initial release
