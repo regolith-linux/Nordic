@@ -1,3 +1,18 @@
+nordic (2.1.0-2) focal; urgency=medium
+
+  [ Ken Gilmer ]
+  * Add automation
+
+  [ Khosrow Moossavi ]
+  * chore: remove obsolete package broadcast action
+  * feat: enable github action to test pull requests
+  * feat: enable github action to publish to unstable
+  * feat: enable github action to publish to testing
+  * feat: enable github action to prepare release
+  * fix: create release tag from correct git sha
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Tue, 04 Feb 2025 03:11:53 +0000
+
 nordic (2.1.0-1) focal; urgency=medium
 
   [ Ken Gilmer ]
